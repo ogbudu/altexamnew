@@ -29,7 +29,14 @@ gap: 10px;
 background: #0065FE;
 border-style: hidden;
 }
-
+.toplist li{
+    position: relative;
+    left: 200px;
+}
+.toplist li span{
+    position: relative;
+    left: 200px;
+}
 .section2 span{ 
     font-family: Kanit;
     font-size: 48px;
